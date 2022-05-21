@@ -9,7 +9,7 @@
 - [ ] LOGGER support.
 
 ## Deploy
-
+https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fwww.youtube.com%2F&template=https://github.com/Captainamarica/Force-Subs-Telegram-bot
 ### Installation
 - Clone this repo
 ```
